@@ -5,7 +5,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      Weather App - with React
+      <h1>Weather App - with React</h1>
       <footer>
         This project was coded by <em>Gabriela Saftoiu</em> and is open-sourced
         <a
