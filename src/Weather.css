@@ -10,10 +10,10 @@
 .Weather h1 {
   color: rgb(33, 33, 33);
   margin: 20px 0 0 0;
-  font-size: 32px;
+  font-size: 34px;
   font-weight: 600;
   line-height: 29px;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
 }
 
 .Weather ul {
