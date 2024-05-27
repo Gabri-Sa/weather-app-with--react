@@ -10,8 +10,15 @@ export default function App() {
         <Weather defaultCity="Oxford" />
 
         <footer>
-          This project was coded by <em>Gabriela Saftoiu</em> and is
-          open-sourced on
+          This project was coded by
+          <a
+            href="https://portfolio-gabriela-saftoiu.netlify.app/about"
+            target="_blank"
+          >
+            {" "}
+            <em>Gabriela Saftoiu</em>{" "}
+          </a>{" "}
+          and is open-sourced on
           <a
             href="https://github.com/Gabri-Sa/weather-app-with--react"
             target="_blank"
