@@ -29,11 +29,10 @@
 }
 
 .Weather canvas {
-  height: 64px;
-  width: 64px;
+  height: 58px;
+  width: 58px;
   display: inline-block;
   margin-right: 10px;
-  margin-bottom: -5px;
 }
 
 .Weather .temperature {
@@ -51,4 +50,13 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.Weather a {
+  text-decoration: none;
+}
+
+footer a {
+  text-decoration: none;
+  color: #8a2be2;
 }
