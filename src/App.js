@@ -14,6 +14,7 @@ export default function App() {
           <a
             href="https://portfolio-gabriela-saftoiu.netlify.app/about"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             <em>Gabriela Saftoiu</em>{" "}
@@ -22,6 +23,7 @@ export default function App() {
           <a
             href="https://github.com/Gabri-Sa/weather-app-with--react"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             GitHub
