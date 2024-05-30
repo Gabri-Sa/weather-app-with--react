@@ -28,7 +28,7 @@ export default function App() {
             {" "}
             GitHub
           </a>
-          and is hosted on{" "}
+          and is hosted on
           <a
             href="https://weather-app-built-with-react.netlify.app/"
             target="_blank"
