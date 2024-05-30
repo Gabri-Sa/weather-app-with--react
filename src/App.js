@@ -17,8 +17,8 @@ export default function App() {
             rel="noopener noreferrer"
           >
             {" "}
-            <em>Gabriela Saftoiu</em>{" "}
-          </a>{" "}
+            <em>Gabriela Saftoiu</em>
+          </a>
           , is open-sourced on
           <a
             href="https://github.com/Gabri-Sa/weather-app-with--react"
@@ -27,13 +27,14 @@ export default function App() {
           >
             {" "}
             GitHub
-          </a>
-          and is hosted on
+          </a>{" "}
+          and hosted on
           <a
             href="https://weather-app-built-with-react.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
+            {" "}
             Netlify
           </a>
         </footer>
