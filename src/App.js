@@ -14,19 +14,27 @@ export default function App() {
           <a
             href="https://portfolio-gabriela-saftoiu.netlify.app/about"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             {" "}
             <em>Gabriela Saftoiu</em>{" "}
           </a>{" "}
-          and is open-sourced on
+          , is open-sourced on
           <a
             href="https://github.com/Gabri-Sa/weather-app-with--react"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             {" "}
             GitHub
+          </a>
+          and is hosted on{" "}
+          <a
+            href="https://weather-app-built-with-react.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Netlify
           </a>
         </footer>
       </div>
