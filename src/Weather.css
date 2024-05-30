@@ -28,13 +28,6 @@
   list-style: none;
 }
 
-.Weather canvas {
-  height: 58px;
-  width: 58px;
-  display: inline-block;
-  margin-right: 10px;
-}
-
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
