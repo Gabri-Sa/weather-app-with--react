@@ -30,7 +30,7 @@ export default function App() {
           </a>{" "}
           and hosted on
           <a
-            href="https://weather-app-built-with-react.netlify.app/"
+            href="https://app.netlify.com/teams/gabri-sa/sites"
             target="_blank"
             rel="noopener noreferrer"
           >
